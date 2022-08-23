@@ -1,14 +1,13 @@
 I have created a password generator through Javascript, its purpose is to generate a password based on the users selected criteria. Then display the password for the user.
 
-✋ GitHub Repository
+(https://github.com/189427/)
 
+https://189427.github.io/passwordgen/
 
-✋ Deployed App
-
-✋User Story
+User Story
 I WANT to randomly generate a password based on my own criteria
 
-✋Acceptance Criteria
+Acceptance Criteria
 WHEN I click the button to generate a password THEN I am presented with a series of prompts for password criteria
 WHEN prompted for password criteria THEN I select which criteria to include in the password
 WHEN prompted for the length of the password THEN I choose a length of at least 8 characters and no more than 128 characters
@@ -24,13 +23,13 @@ or view it here
 
 https://189427.github.io/passwordgen/
 
-💾Installation
+Installation
 Clone my repository or download the zip file.
 
 ✏️Testing
 No testing is currently set up
 
-👪Contribution
+Contribution
 Enail me for contribution.
 
 Questions
